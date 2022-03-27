@@ -60,6 +60,5 @@ function onestop() {
     clearTimeout(timeoutID)
     const hey = new Audio("Hey.mp3");
     hey.pause();
-    //const audio = new Audio(path);
     audio.pause();
 }
