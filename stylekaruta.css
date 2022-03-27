@@ -1,0 +1,38 @@
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+a{
+  color: #fff;
+}
+
+
+.btn--circle {
+    margin:8px;
+    width: 80px;
+    height: 80px;
+    padding: 0;
+    background: #fff;
+    /* border-radius: 50%; */
+    /* -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .3); */
+    /* box-shadow: 0 3px 5px rgba(0, 0, 0, .3); */
+}
+  
+/* .btn--circle i {
+    font-size: 150%;
+    line-height: 80px;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    letter-spacing: 0;
+  }
+.btn--circle:hover i {
+    line-height: 55px;
+  } */
+
+#fc2_footer{position:static!important;}
+
